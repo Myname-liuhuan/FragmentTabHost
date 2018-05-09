@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FragmentTabHost</string>
+    <string name="TextView">请点击menu里面的Item</string>
+    <string name="TextView01_set">逻辑命题求解:小明、小强、小红三个人是好朋友，他们中间其中一个人下海经商，一个人考上了重点大学，一个人参军了。此外他们还知道以下条件：小红的年龄比士兵的大；大学生的年龄比小强小；小明的年龄和大学生的年龄不一样。请推出这三个人中谁是商人？谁是大学生？谁是士兵？</string>
+    <string name="menu_item_dayin">打印</string>
+    <string name="menu_item_new">新建</string>
+    <string name="menu_item_new_menu1_item1">文本文档(.txt)</string>
+    <string name="menu_item_new_menu1_item2">项目(project)</string>
+    <string name="menu_item_email">邮件</string>
+    <string name="menu_item_setting">设置</string>
+    <string name="menu_item_dingyue">订阅</string>
+    <string name="menu_item_exit">退出</string>
+    <string name="TextView01_show">准备开始答题</string>
+    <string name="button01">显示题目</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="textView01">输入数字点击button，将在这显示输入结果</string>
+
+</resources>
